@@ -1,10 +1,10 @@
-# MyFirstApp
+# Angular Pipe Implemenation
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+The purpose of this angular project is to demonstrate the power of angular pipes. I have implemented built in pipes as well as custom pipes for filtering results in this project.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Navigate to [https://admiring-banach-7e8fd6.netlify.app](https://admiring-banach-7e8fd6.netlify.app). The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
